@@ -1,5 +1,7 @@
 To run the project, use "python most_active_cookie.py cookie_log.csv -d 2018-12-08" as described in prject description and feel free to change query date.
 
+most_active_cookie.py includes the solution code for this assessment.
+
 most_active_cookie.py use two hashmap and a priority queue to find most active cookie(s), here is an overview of basic structure
 
 hashmap1: save all cookies with their corresponding date, use example from description:
